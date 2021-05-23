@@ -1,0 +1,69 @@
+{
+    "groups":[
+      {
+          "id":"1",
+          "title":"Teknoloji",
+          "subTitle":"Teknoloji ile ilgili herşey",
+          "topics":[
+              {
+                  "id":"1",
+                    "title":"Samsung S8 Tanıtıldı !",
+                    "description":"Samsung akıllı telefon pazarında lider"
+              },
+              {
+                "id":"2",
+                  "title":"Iphone 8 Testi !",
+                  "description":"ıphone akıllı telefon pazarında lider"
+            },
+            {
+                "id":"3",
+                  "title":"Huaweri Gidiyor !",
+                  "description":"huawei akıllı telefon pazarında lider"
+            }
+            
+          ]
+      },
+      {
+        "id":"2",
+        "title":"Bilim",
+        "subTitle":"Bilim ile ilgili herşey",
+        "topics":[
+            {
+                "id":"11",
+                  "title":"Marsta hayat!",
+                  "description":"Mars gezegeni"
+            },
+            {
+              "id":"22",
+                "title":"SpaceX Büyüyor mu",
+                "description":"Elon musk açıkladı"
+          },
+          {
+              "id":"33",
+                "title":"4 Nm İşlemciler Geliyor mu",
+                "description":"İntel lider"
+          }
+          
+        ]
+    },
+    {
+        "id":"3",
+        "title":"Gündem",
+        "subTitle":"Günlük olaylar ile ilgili herşey",
+        "topics":[
+            {
+                "id":"111",
+                  "title":"Samsuna gemi limanı!",
+                  "description":"Samsun büyüyor"
+            },
+            {
+              "id":"222",
+                "title":"Miili uçak yapıldı",
+                "description":"Tr"
+          }
+     
+          
+        ]
+    }
+    ]
+}
