@@ -11,6 +11,7 @@ import Navbar from "@/components/global/Navbar";
 import Wrapper from "@/components/global/Wrapper";
 export default {
   components: { Navbar, Wrapper },
+   middleware: ['auth'],
   head() {
 		return {
 			titleTemplate: "%s - Real World Forums",

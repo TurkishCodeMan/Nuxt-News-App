@@ -1,9 +1,7 @@
 <template>
- <div class="groups">
-    <AppGroupList>
+  <AppGroupList>
     <template #secondRow="{ group }">{{ group.id }}</template>
   </AppGroupList>
- </div>
 </template>
 
 <script>
@@ -33,5 +31,4 @@ export default {
 </script>
 
 <style scoped lang="scss">
-
 </style>

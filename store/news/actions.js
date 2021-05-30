@@ -8,6 +8,7 @@ const actions = {
             let { data: groups } = await NewService.getGroups();
             commit("SET_GROUPS", groups)
         } catch (error) {
+
             return error;
         }
     },

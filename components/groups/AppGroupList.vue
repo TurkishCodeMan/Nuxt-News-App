@@ -1,5 +1,5 @@
 <template>
-  <div class="group-list">
+  <div class="group-list" v-if="groups.length>0">
     <GroupCard v-for="group in groups" :key="group.id" :group="group" />
   </div>
 </template>

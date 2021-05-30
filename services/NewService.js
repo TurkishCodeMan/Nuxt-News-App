@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const apiClient=axios.create({
-    baseURL:"http://localhost:4000",
+    baseURL:"https://my-json-server.typicode.com/TurkishCodeman/Nuxt-News-App/",
     withCredentials:true,
     headers:{
         Accept:'application/json',
